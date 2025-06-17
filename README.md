@@ -1,5 +1,6 @@
 # Data-Visualization-System-in-Java
 This Java project demonstrates how to build a simple Data Visualization System using Swing for the GUI and JFreeChart for generating interactive pie charts. The system allows users to input data dynamically, view it in a table, and visualize the distribution using a pie chart.
+
 🔧 Features
 =>Add item and amount dynamically.
 
@@ -10,6 +11,7 @@ This Java project demonstrates how to build a simple Data Visualization System u
 Reset the form to start fresh.
 
 🛠️ Technologies Used
+
 =>Java (Core + Swing)
 
 =>JFreeChart (Pie Chart library)
